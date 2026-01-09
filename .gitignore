@@ -1,0 +1,46 @@
+########################################
+# Node & Package Manager
+########################################
+node_modules/
+# npm-debug.log*
+# yarn-error.log*
+# pnpm-debug.log*
+
+########################################
+# Cypress (DO NOT ignore test files)
+########################################
+# Cypress generated artifacts
+# cypress/videos/
+# cypress/screenshots/
+# cypress/downloads/
+
+# Cypress cache & binaries
+# .cache/
+# .cypress/
+# Cypress/
+
+########################################
+# Environment variables
+########################################
+# .env
+# .env.*
+
+########################################
+# Coverage & build output
+########################################
+# coverage/
+# dist/
+# build/
+
+########################################
+# OS files
+########################################
+# .DS_Store
+# Thumbs.db
+
+########################################
+# IDE / Editor configs
+########################################
+# .vscode/
+# .idea/
+# *.iml
