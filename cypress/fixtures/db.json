@@ -1,0 +1,124 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Shubham Shinde",
+      "email": "shubham1@test.com",
+      "course": "REST Assured"
+    },
+    {
+      "id": "2",
+      "name": "Amit Patil",
+      "email": "amit2@test.com",
+      "course": "Java Automation"
+    },
+    {
+      "id": "3",
+      "name": "Rohit Sharma",
+      "email": "rohit3@test.com",
+      "course": "Selenium"
+    },
+    {
+      "id": "4",
+      "name": "Sneha Kulkarni",
+      "email": "sneha4@test.com",
+      "course": "API Testing"
+    },
+    {
+      "id": "5",
+      "name": "Priya Deshmukh",
+      "email": "priya5@test.com",
+      "course": "Manual Testing"
+    },
+    {
+      "id": "6",
+      "name": "Rahul Verma",
+      "email": "rahul6@test.com",
+      "course": "TestNG"
+    },
+    {
+      "id": "7",
+      "name": "Neha Joshi",
+      "email": "neha7@test.com",
+      "course": "Cypress"
+    },
+    {
+      "id": "8",
+      "name": "Kunal Mehta",
+      "email": "kunal8@test.com",
+      "course": "Postman"
+    },
+    {
+      "id": "9",
+      "name": "Pooja Nair",
+      "email": "pooja9@test.com",
+      "course": "Performance Testing"
+    },
+    {
+      "id": "10",
+      "name": "Vikas Rao",
+      "email": "vikas10@test.com",
+      "course": "Spring Boot"
+    },
+    {
+      "id": "c45a",
+      "name": "Herta Daniel IV",
+      "course": "com.github.javafaker.Name@412ebe64",
+      "email": "luke.jacobson@example.com"
+    },
+    {
+      "id": "2ddb",
+      "name": "Trena Lang",
+      "course": "com.github.javafaker.Name@773c2214",
+      "email": "katina.corkery@example.com"
+    },
+    {
+      "id": "f399",
+      "name": "Juan Klein",
+      "course": "com.github.javafaker.Name@367fbb28",
+      "email": "dominic.jenkins@example.com"
+    },
+    {
+      "id": "8140",
+      "name": "Alfredo O'Connell",
+      "course": "com.github.javafaker.Name@33d7765a",
+      "email": "florine.kunze@example.com"
+    },
+    {
+      "id": "9d6d",
+      "name": "Mr. Boyd Smitham",
+      "course": "com.github.javafaker.Name@5234b61a",
+      "email": "boyce.bode@example.com"
+    },
+    {
+      "id": "8801",
+      "name": "Arleen Wilderman",
+      "course": "com.github.javafaker.Name@51cab489",
+      "email": "tommy.emmerich@example.com"
+    },
+    {
+      "id": "1bcd",
+      "name": "Mr. Donnell Romaguera",
+      "course": "com.github.javafaker.Name@44e4cb76",
+      "email": "conchita.carter@example.com"
+    },
+    {
+      "id": "6def",
+      "name": "Alec Durgan",
+      "course": "com.github.javafaker.Name@44e4cb76",
+      "email": "gale.zulauf@example.com"
+    },
+    {
+      "id": "fccc",
+      "name": "Freddie Schiller",
+      "course": "Associate Degree in Forensic Science",
+      "email": "vernon.howe@example.com"
+    },
+    {
+      "id": "3c3a",
+      "name": "Luci Klocko",
+      "course": "Associate Degree in Engineering",
+      "email": "windy.king@example.com"
+    }
+  ]
+}
