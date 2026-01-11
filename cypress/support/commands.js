@@ -34,3 +34,23 @@ Cypress.Commands.add("getIframe", (iframeSelector) => {
     .should("not.be.empty")
     .then(cy.wrap);
 });
+
+//custom command for clicking on link using lable
+
+Cypress.Commands.add("clickLink", (label) => {
+  cy.get("a").contains(label).click();
+});
+
+// Override contains to be case-insensitive (SAFE & WORKING)
+// Case-insensitive contains + click
+Cypress.Commands.add("containsClick", (label) => {
+  cy.contains(new RegExp(label, "i")).should("be.visible").click();
+});
+
+//custom command for login
+
+Cypress.Commands.add("LoginApp", (username, password) => {
+  cy.get("#username").type(username);
+  cy.get("#password").type(password);
+  cy.get("#submit").click();
+});
